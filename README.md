@@ -1,6 +1,6 @@
 # ChainPort
 
-**ChainPort** is a secure and gas-efficient framework for migrating Ethereum smart contracts with minimal downtime. It restores contract state in phases by analyzing function–state dependencies, prioritizing critical functionality, and enforcing strict access control and batch sequencing.
+**ChainPort** is a secure and gas-efficient framework for migrating Ethereum smart contracts with minimal downtime. It restores contract state in phases by analyzing function–state dependencies, prioritizing critical functionality, and enforcing strict access control and batch sequencing. The state extraction and construction components are adapted from SmartMuv.
 
 ## 📁 Project Structure
 
